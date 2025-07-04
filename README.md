@@ -56,4 +56,7 @@ I'm always open to learning from others, sharing ideas, and collaborating on exc
 📫 **[Email me](mailto:rahul.kurra@triosstudent.com)**  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/rahulkurra)
 
+![GitHub Followers](https://img.shields.io/github/followers/rahulkurra?style=social)
+
+
 

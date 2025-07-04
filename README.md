@@ -50,7 +50,7 @@ I'm always open to learning from others, sharing ideas, and collaborating on exc
 
 ---
 
-📫 **[rahul.kurra@triosstudent.com](mailto:rahul.kurra@triosstudent.com)**  
+📫 **[Email me](mailto:rahul.kurra@triosstudent.com)**  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/rahulkurra)
 
 

@@ -3,6 +3,9 @@
 Welcome to my GitHub profile!  
 I'm an enthusiastic and motivated learner, currently transitioning into the world of **software development** after a rewarding career in **banking, finance, and mortgages**. My long-standing interest in technology has led me to take a bold step forward and follow my passion.
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 ## 🚀 My Learning Journey
 
 I'm currently enrolled in a **Mobile Web Developer** program, which has been an exciting starting point for my software development journey. Here's a quick snapshot of what I've learned and what's coming up:

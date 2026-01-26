@@ -20,15 +20,15 @@ I'm currently enrolled in a **Mobile Web Developer** program, which has been an 
   - Basic Linux usage (CLI navigation, permissions, etc.)
   - Adobe Illustrator & Photoshop  
   - Adobe XD (UI/UX Design Basics)
+  - Java Programming
+  - iOS App Development (Swift)
+  - Android App Development
+  - Mobile Capstone Project
 
 ### 📚 Upcoming Skills on My Roadmap:
-- ☕ Java Programming  
-- 🍎 iOS App Development (Swift)  
-- 🤖 Android App Development  
 - 🌐 PHP & SQL  
 - 🔥 Angular  
-- ⚛️ React  
-- 🎓 Mobile Capstone Project
+- ⚛️ React
 
 ## 💡 About Me
 
@@ -37,13 +37,13 @@ I've always had a creative and problem-solving mindset. While I spent most of my
 This transition is more than just a career move—it's a personal mission to build, design, and contribute to products that make a difference.
 
 ## 🧰 What I’m Currently Working On
-- Strengthening my JavaScript fundamentals
+- Strengthening my PHP fundamentals
 - Building interactive web projects
 - Practicing UI/UX design with real-world applications
 - Learning version control best practices
 
 ## 🎯 Goals
-- Become a full-stack mobile developer
+- Become a full-stack mobile and web developer
 - Contribute to open-source projects
 - Build real-world applications that solve everyday problems
 - Collaborate with like-minded developers and continuously grow
@@ -53,7 +53,7 @@ I'm always open to learning from others, sharing ideas, and collaborating on exc
 
 ---
 
-📫 **[Email me](mailto:rahul.kurra@triosstudent.com)**  
+📫 **[Email me](mailto:rahul.kurra1986@gmail.com)**  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/rahulkurra)
 
 
